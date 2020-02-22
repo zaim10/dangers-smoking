@@ -63,12 +63,13 @@ table {
 }
 
 
-.slide h1, 
-.slide h2, 
-.slide h3 {
+.slide h1 {
     margin-bottom: 0.5em;
     margin-top: 0.5em;
     text-align: center;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -1px;
 }
 
 .slide q {
