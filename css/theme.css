@@ -41,6 +41,15 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+body {
+    font-family: 'PT Sans', sans-serif;
+    min-height: 740px;
+
+    background: #333;
+}
+
+b, strong { font-weight: bold }
+
 .slide {
     display: block;
 
